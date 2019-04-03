@@ -13,8 +13,8 @@
   },
   {
     "remote": "github",
-    "repository": "MiCode/Xiaomi_Kernel_OpenSource",
+    "repository": "nysadev/kernel_platina_bellatrix",
     "target_path": "kernel/xiaomi/platina",
-    "branch": "nitrogen-p-oss"
+    "branch": "kernel.lnx.4.4.r34-rel"
   }
 ]
